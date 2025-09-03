@@ -1,0 +1,46 @@
+column,type,notnull,dflt_value,pk,sample
+entry_id,INTEGER,0,,1,133307
+organization_id,INTEGER,0,,0,166624
+id,VARCHAR,0,,0,100000
+surname,VARCHAR,0,,0,ABIOLA
+firstname,VARCHAR,0,,0,KOLA
+otherName,VARCHAR,0,,0,
+email,VARCHAR,0,,0,
+phoneNumber,VARCHAR,0,,0,
+gender,VARCHAR,0,,0,Male
+formerNationality,VARCHAR,0,,0,
+city,VARCHAR,0,,0,VICTORIA ISLAND
+occupation,VARCHAR,0,,0,None
+formerName,VARCHAR,0,,0,
+corporationName,VARCHAR,0,,0,None
+rcNumber,VARCHAR,0,,0,None
+corporationCompany,VARCHAR,0,,0,
+state,VARCHAR,0,,0,LAGOS
+accreditationnumber,VARCHAR,0,,0,None
+formType,VARCHAR,0,,0,
+numSharesAlloted,VARCHAR,0,,0,None
+typeOfShares,VARCHAR,0,,0,None
+dateOfBirth,VARCHAR,0,,0,None
+dateOfAppointment,VARCHAR,0,,0,None
+status,VARCHAR,0,,0,ACTIVE
+formerSurname,VARCHAR,0,,0,None
+formerFirstName,VARCHAR,0,,0,None
+formerOtherName,VARCHAR,0,,0,None
+identityNumber,VARCHAR,0,,0,
+otherDirectorshipDetails,VARCHAR,0,,0,None
+affiliateTypeFk,VARCHAR,0,,0,"{'id': 6986, 'name': 'DIRECTOR', 'description': 'DIRECTOR'}"
+countryFk,VARCHAR,0,,0,"{'id': 1, 'name': 'NIGERIA', 'code': 'NIGERIA'}"
+lga,VARCHAR,0,,0,None
+isCorporate,VARCHAR,0,,0,FALSE
+nationality,VARCHAR,0,,0,Nigerian
+address,VARCHAR,0,,0,"5, SAKA TINUBU STREET"
+streetNumber,VARCHAR,0,,0,None
+isChairman,VARCHAR,0,,0,None
+isDesignated,VARCHAR,0,,0,None
+postcode,VARCHAR,0,,0,None
+formerNameType,VARCHAR,0,,0,None
+affiliatesResidentialAddress,VARCHAR,0,,0,None
+affiliatesPscInformation,VARCHAR,0,,0,None
+isPublicUser,VARCHAR,0,,0,None
+last_update,DATETIME,0,,0,09:05.7
+date_added,DATETIME,0,,0,09:05.7

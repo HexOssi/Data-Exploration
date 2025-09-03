@@ -1,0 +1,83 @@
+column	sample
+entry_id	1
+organization_id	166623
+id	166623
+approvedName	COMPAGNIE FRANCAISE DE L'AFRIQUE
+objectives	
+registrationApproved	TRUE
+rcNumber	2
+address	"1,DAVESSTREET,,LAGOS,LAGOS"
+branchAddress	
+registrationSubmitted	TRUE
+businessCommencementDate	None
+reservationSerialNo	3267376894
+active	TRUE
+registrationSerialNo	None
+registrationApprovedByRg	TRUE
+trackingId	Ma4vGfi2uBFeHCBVTORB
+dateOfReservation	None
+needsProficiencyDocs	FALSE
+availabilityCode	26783241507
+nameAvailability	0
+forwardedToAo	TRUE
+forwardedToRgs	TRUE
+classificationFk	"{'id': 2, 'name': 'COMPANY', 'description': 'Company'}"
+natureOfBusinessFk	"{'id': 1, 'name': 'UNSPECIFIED', 'description': 'PRIVATE COMPANY LIMITED BY SHARES', 'natureOfBusinessCategoryFk': None, 'isActive': None, 'un_isic': None, 'hidden': None, 'isic_group_fk': None}"
+companyTypeFk	"{'id': 6993, 'name': 'PRIVATE_COMPANY_LIMITED_BY_SHARES', 'description': 'PRIVATE COMPANY LIMITED BY SHARES', 'classification_fk': {'id': 2, 'name': None, 'description': None}}"
+registrationDate	1912-09-26T23:00:00.000+00:00
+review_status	None
+isOldRecord	FALSE
+regPortalUserFk	None
+approvedNameForSearch	COMPAGNIE FRANCAISE LAFRIQUE
+state	None
+city	None
+status	INACTIVE
+companyStatus	"{'code': '107', 'status': None, 'companyTypes': None, 'canAddMore': False}"
+isForChangeOfName	None
+isChangeOfNameSubmited	None
+dateCreated	None
+isSubmittedForPostInc	None
+queryCode	None
+queryHistoryFk	None
+reasonForDisapproval	None
+dateOfApproval	None
+date_of_query	None
+approver	None
+updatingOffice	None
+hasBeenUpdated	None
+dateOfUpdate	None
+approvedForUpdate	None
+dateOfUpdateApproval	None
+approvedForUpdateByFk	None
+updatedByFk	None
+registrationSubmissionDate	None
+financialYearEnd	None
+streetNumber	None
+lga	None
+delisting_status	None
+head_office_address	None
+companyHeadOffice	"{'id': None, 'country': 'NIGERIA', 'state': None, 'lga': None, 'city': None, 'address': None, 'streetNumber': None, 'postcode': None}"
+postcode	None
+email	None
+progressLevel	None
+batch	None
+queried	None
+firsTin	None
+natureOfBusiness	None
+formerName	None
+resolved	None
+durationInQueue	None
+timeTakeTobeProcessed	None
+rrr	None
+paymentDate	None
+enteredBy	None
+activeForPostInc	None
+shareCapital	None
+shareCapitalInWords	None
+dividedInto	None
+ofEach	None
+consentCode	None
+jtbTINStatus	None
+fullAddress	"1,DAVESSTREET,,LAGOS,LAGOS"
+last_update	07:38.4
+date_added	07:38.4

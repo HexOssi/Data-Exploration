@@ -1,0 +1,83 @@
+column,type,notnull,dflt_value,pk,sample
+entry_id,INTEGER,0,,1,1
+organization_id,INTEGER,0,,0,166623
+id,VARCHAR,0,,0,166623
+approvedName,VARCHAR,0,,0,COMPAGNIE FRANCAISE DE L'AFRIQUE
+objectives,VARCHAR,0,,0,
+registrationApproved,VARCHAR,0,,0,True
+rcNumber,VARCHAR,0,,0,2
+address,VARCHAR,0,,0,"1,DAVESSTREET,,LAGOS,LAGOS"
+branchAddress,VARCHAR,0,,0,
+registrationSubmitted,VARCHAR,0,,0,True
+businessCommencementDate,VARCHAR,0,,0,None
+reservationSerialNo,VARCHAR,0,,0,3267376894
+active,VARCHAR,0,,0,True
+registrationSerialNo,VARCHAR,0,,0,None
+registrationApprovedByRg,VARCHAR,0,,0,True
+trackingId,VARCHAR,0,,0,Ma4vGfi2uBFeHCBVTORB
+dateOfReservation,VARCHAR,0,,0,None
+needsProficiencyDocs,VARCHAR,0,,0,False
+availabilityCode,VARCHAR,0,,0,26783241507
+nameAvailability,VARCHAR,0,,0,0
+forwardedToAo,VARCHAR,0,,0,True
+forwardedToRgs,VARCHAR,0,,0,True
+classificationFk,VARCHAR,0,,0,"{'id': 2, 'name': 'COMPANY', 'description': 'Company'}"
+natureOfBusinessFk,VARCHAR,0,,0,"{'id': 1, 'name': 'UNSPECIFIED', 'description': 'PRIVATE COMPANY LIMITED BY SHARES', 'natureOfBusinessCategoryFk': None, 'isActive': None, 'un_isic': None, 'hidden': None, 'isic_group_fk': None}"
+companyTypeFk,VARCHAR,0,,0,"{'id': 6993, 'name': 'PRIVATE_COMPANY_LIMITED_BY_SHARES', 'description': 'PRIVATE COMPANY LIMITED BY SHARES', 'classification_fk': {'id': 2, 'name': None, 'description': None}}"
+registrationDate,VARCHAR,0,,0,1912-09-26T23:00:00.000+00:00
+review_status,VARCHAR,0,,0,None
+isOldRecord,VARCHAR,0,,0,False
+regPortalUserFk,VARCHAR,0,,0,None
+approvedNameForSearch,VARCHAR,0,,0,COMPAGNIE FRANCAISE LAFRIQUE
+state,VARCHAR,0,,0,None
+city,VARCHAR,0,,0,None
+status,VARCHAR,0,,0,INACTIVE
+companyStatus,VARCHAR,0,,0,"{'code': '107', 'status': None, 'companyTypes': None, 'canAddMore': False}"
+isForChangeOfName,VARCHAR,0,,0,None
+isChangeOfNameSubmited,VARCHAR,0,,0,None
+dateCreated,VARCHAR,0,,0,None
+isSubmittedForPostInc,VARCHAR,0,,0,None
+queryCode,VARCHAR,0,,0,None
+queryHistoryFk,VARCHAR,0,,0,None
+reasonForDisapproval,VARCHAR,0,,0,None
+dateOfApproval,VARCHAR,0,,0,None
+date_of_query,VARCHAR,0,,0,None
+approver,VARCHAR,0,,0,None
+updatingOffice,VARCHAR,0,,0,None
+hasBeenUpdated,VARCHAR,0,,0,None
+dateOfUpdate,VARCHAR,0,,0,None
+approvedForUpdate,VARCHAR,0,,0,None
+dateOfUpdateApproval,VARCHAR,0,,0,None
+approvedForUpdateByFk,VARCHAR,0,,0,None
+updatedByFk,VARCHAR,0,,0,None
+registrationSubmissionDate,VARCHAR,0,,0,None
+financialYearEnd,VARCHAR,0,,0,None
+streetNumber,VARCHAR,0,,0,None
+lga,VARCHAR,0,,0,None
+delisting_status,VARCHAR,0,,0,None
+head_office_address,VARCHAR,0,,0,None
+companyHeadOffice,VARCHAR,0,,0,"{'id': None, 'country': 'NIGERIA', 'state': None, 'lga': None, 'city': None, 'address': None, 'streetNumber': None, 'postcode': None}"
+postcode,VARCHAR,0,,0,None
+email,VARCHAR,0,,0,None
+progressLevel,VARCHAR,0,,0,None
+batch,VARCHAR,0,,0,None
+queried,VARCHAR,0,,0,None
+firsTin,VARCHAR,0,,0,None
+natureOfBusiness,VARCHAR,0,,0,None
+formerName,VARCHAR,0,,0,None
+resolved,VARCHAR,0,,0,None
+durationInQueue,VARCHAR,0,,0,None
+timeTakeTobeProcessed,VARCHAR,0,,0,None
+rrr,VARCHAR,0,,0,None
+paymentDate,VARCHAR,0,,0,None
+enteredBy,VARCHAR,0,,0,None
+activeForPostInc,VARCHAR,0,,0,None
+shareCapital,VARCHAR,0,,0,None
+shareCapitalInWords,VARCHAR,0,,0,None
+dividedInto,VARCHAR,0,,0,None
+ofEach,VARCHAR,0,,0,None
+consentCode,VARCHAR,0,,0,None
+jtbTINStatus,VARCHAR,0,,0,None
+fullAddress,VARCHAR,0,,0,"1,DAVESSTREET,,LAGOS,LAGOS"
+last_update,DATETIME,0,,0,2023-10-13 16:07:38.393052
+date_added,DATETIME,0,,0,2023-10-13 16:07:38.393052
